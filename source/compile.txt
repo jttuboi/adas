@@ -1,0 +1,5 @@
+To compile for windows:
+mingw32-make WINDOWS=1 
+
+To compile for linux:
+make
